@@ -1,3 +1,5 @@
+<img src="Images/mehedi.jpeg" width="300" alt="mehedi-hasan">
+
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bdmehedi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mehedi Github Stats"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Mehedi+Hasan)](https://github.com/bdmehedi)
