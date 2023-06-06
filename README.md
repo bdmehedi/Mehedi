@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:center margin-bottom:20px">
   <img src="Images/mehedi.jpeg" width="200" style="margin: 0 auto" alt="mehedi-hasan">
 </div>
 
