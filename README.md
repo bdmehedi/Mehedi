@@ -1,4 +1,5 @@
-<div style="text-align:center; margin-bottom:35px; margin-top: 10px;">
+
+<div style="text-align:center; margin-bottom:5%; margin-top: 10px;">
   <img src="Images/mehedi.jpeg" width="150" style="margin: 0 auto" alt="mehedi-hasan">
 </div>
 
