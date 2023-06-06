@@ -1,4 +1,6 @@
-<img src="Images/mehedi.jpeg" width="300" alt="mehedi-hasan">
+<div style="text-align:center">
+  <img src="Images/mehedi.jpeg" width="200" style="margin: 0 auto" alt="mehedi-hasan">
+</div>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bdmehedi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mehedi Github Stats"/>
 
