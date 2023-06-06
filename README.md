@@ -3,8 +3,6 @@
   <img src="Images/mehedi.jpeg" width="150" style="border-radius: 50%" alt="mehedi-hasan">
 </div>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bdmehedi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mehedi Github Stats"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze&size=28&duration=4000&pause=2000&color=8A38D5&width=300&lines=Hi,+++I'm+Mehedi+Hasan)](https://github.com/bdmehedi)
 
 I am a Full Stack Web Developer from Dhaka, Bangladesh with a huge love for PHP, Laravel, Vue.js, React.js, TypeScript, Everything API, RDBMS (Mysql, SQL Server), TailwindCSS and WordPress. Also I am familiar with AWS, GCP, docker and linux system.
@@ -38,6 +36,10 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </p>
+
+<div style="text-align: center">
+    <img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=bdmehedi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mehedi Github Stats"/>
+</div>
 
 ## Where to find me
 <p align="left">
