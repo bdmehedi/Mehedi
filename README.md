@@ -37,10 +37,6 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 
 </p>
 
-<div style="text-align: center">
-    <img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=bdmehedi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Mehedi Github Stats"/>
-</div>
-
 ## Where to find me
 <p align="left">
 <a href="https://linkedin.com/in/bdmehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anisAronno" height="30" width="40" /></a>
