@@ -19,6 +19,7 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%230769AD.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23563D7C.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
 <img alt="Vue js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="Tailwind" src="https://img.shields.io/badge/tailwind%20-%23563D7C.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
@@ -33,8 +34,6 @@ Currently, working as a **Software Engineer** in **[weDevs](https://wedevs.com/a
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="sass" src="https://img.shields.io/badge/sass%20-%231572B6.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
 </p>
 
 ## Where to find me
